@@ -1,0 +1,23 @@
+1. Project File Strucutre [Done]
+2. Project Package [Done]
+3. Route Config [Done]
+4. App.js config [Done]
+5. PostMan Initial Config [Done]
+6. Email Credential Config [Done]
+7. Token Encode Decode Config  [Done]
+8. Write Model Properties [Done]
+9. Registration API [Done]
+10.Login API [Done]
+11. ProfileDetails API [Done]
+12. ProfileUpdate  API [Done]
+13. EmailVerify API [Done]
+14. CodeVerify API [Done]
+15. ResetPassword API [Done]
+16. CreateTask API [Done]
+17. UpdateTaskStatus API [Done]
+18. TaskListByStatus API [Done]
+19. DeleteTask API [Done]
+20. CountTask [Done]
+
+Project Live:
+https://task.teamrabbil.com 
