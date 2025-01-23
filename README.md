@@ -46,7 +46,7 @@ The **Task Management System** is a backend application designed to allow users 
 ## Installation  
 1. Clone the repository.
 2. Run `npm install` to install dependencies.
-3. Set up environment variables for database and authentication settings.
+3. Set up environment variables for database and authentication settings in config.js file.
 4. Run the application with `npm start`.
 
 ## License  
