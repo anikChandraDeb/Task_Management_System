@@ -20,8 +20,10 @@ The **Task Management System** is a backend application designed to allow users 
 - **Count Tasks**: Displays the total number of tasks.
 
 ## Technologies Used  
+- Node.js
 - Express.js
 - JavaScript
+- MongoDB
 - Authentication Middleware
 
 ## Authentication
